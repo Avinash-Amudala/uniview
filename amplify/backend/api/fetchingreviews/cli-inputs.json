@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/reviews/{universityName}": {
+      "name": "/reviews/{universityName}",
+      "lambdaFunction": "universityreviewsb059fa89",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

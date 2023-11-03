@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-universityreviews-dev-32756-authRole",
+      "UnauthRoleArn": "arn:aws:iam::353051341806:role/amplify-universityreviews-dev-32756-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::353051341806:role/amplify-universityreviews-dev-32756-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-universityreviews-dev-32756-deployment",
+      "UnauthRoleName": "amplify-universityreviews-dev-32756-unauthRole",
+      "StackName": "amplify-universityreviews-dev-32756",
+      "StackId": "arn:aws:cloudformation:us-east-2:353051341806:stack/amplify-universityreviews-dev-32756/83251d10-7a1a-11ee-84e9-0aedb83089bf",
+      "AmplifyAppId": "d33ey86mhvjiuc"
+    },
+    "categories": {
+      "function": {
+        "universityreviewsb059fa89": {}
+      }
+    }
+  }
+}
